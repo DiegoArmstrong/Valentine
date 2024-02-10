@@ -1,3 +1,3 @@
-#Valentine website!
+# Valentine website!
 
-##Ask your significant other to be your valentine!
+## Ask your significant other to be your valentine!
